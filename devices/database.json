@@ -1,0 +1,10 @@
+[
+  {
+    "vendor": "Qualcomm",
+    "model": "Generic QDLoader 9008 interface",
+    "soc": "Unknown Qualcomm SoC",
+    "usb_ids": ["05c6:9008"],
+    "entry_methods": ["already-edl", "sahara-detection"],
+    "status": "UNTESTED"
+  }
+]
